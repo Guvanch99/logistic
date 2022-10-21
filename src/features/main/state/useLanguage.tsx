@@ -4,7 +4,7 @@ import { useTranslation } from 'react-i18next'
 
 export type TLanguage = 'en' | 'ru' | 'tr'
 const useLanguage = () => {
-  const [language, setLanguage] = useState<TLanguage>('en')
+  const [language, setLanguage] = useState<TLanguage>('tr')
   const { i18n } = useTranslation('translation')
   useEffect(() => {
     i18n.changeLanguage(language)

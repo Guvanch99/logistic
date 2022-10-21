@@ -1,12 +1,12 @@
 import { FC, ReactNode } from 'react'
-import styled from 'styled-components/macro'
+import styled, { css } from 'styled-components/macro'
 import { LocationIcon } from '../../../core/icons/LocationIcon'
 import { PhoneIcon } from '../../../core/icons/PhoneIcon'
 import { EmailIcon } from '../../../core/icons/EmailIcon'
 import { flex, fontFamily } from '../../../core/styles/mixins'
 
 const WrapperStyled = styled.div<{height?: number}>`
-  ${flex({ justify: 'space-between', align: 'center' })};
+  ${flex({ justify: 'flex-start', align: 'center' })};
   flex-direction: column;
   height: ${({ height }) => (height ? `${height}px` : 'auto')};
   width: 100%;
@@ -41,7 +41,7 @@ const IconContainerStyled = styled.div`
   margin-right: 8px;
 `
 
-const TextStyled = styled.div`
+const TextStyled = styled.div<{uppercase?: boolean}>`
   ${fontFamily()}
   ${flex({ justify: 'flex-start', align: 'center' })};
   width: 100%;
@@ -49,6 +49,10 @@ const TextStyled = styled.div`
   color: #424242;
   font-size: 14px;
   font-weight: 400;
+  margin-top: 8px;
+  ${({ uppercase }) => uppercase && css`
+  text-transform: uppercase;
+  `}
 `
 type TProps = {
   label?: string
@@ -62,24 +66,28 @@ type TProps = {
 const Card: FC<TProps> = ({ address, phone, email, label, children, height }) => (
   <WrapperStyled height={height}>
     {label && <LabelStyled>{label}</LabelStyled>}
-    <TextStyled>
+    <TextStyled uppercase>
       <IconContainerStyled>
         <LocationIcon width={20} height={20}/>
       </IconContainerStyled>
       {address}
     </TextStyled>
-    <TextStyled>
-      <IconContainerStyled>
-        <PhoneIcon width={20} height={20}/>
-      </IconContainerStyled>
-      {phone}
-    </TextStyled>
-    <TextStyled>
-      <IconContainerStyled>
-        <EmailIcon width={20} height={20}/>
-      </IconContainerStyled>
-      {email}
-    </TextStyled>
+    {phone !== '-' && (
+      <TextStyled>
+        <IconContainerStyled>
+          <PhoneIcon width={20} height={20}/>
+        </IconContainerStyled>
+        {phone}
+      </TextStyled>
+    )}
+    {email !== '-' && (
+      <TextStyled>
+        <IconContainerStyled>
+          <EmailIcon width={20} height={20}/>
+        </IconContainerStyled>
+        {email}
+      </TextStyled>
+    )}
     {children}
   </WrapperStyled>
 )

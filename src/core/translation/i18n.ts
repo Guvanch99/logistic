@@ -3,7 +3,7 @@ import Backend from 'i18next-http-backend'
 import LanguageDetector from 'i18next-browser-languagedetector'
 import { initReactI18next } from 'react-i18next'
 
-const languages = ['en', 'ru', 'tr']
+const languages = ['tr', 'en', 'ru']
 const lookupQuerystring = 'lang'
 
 const detectionOptions = {
