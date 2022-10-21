@@ -1,0 +1,194 @@
+{
+  "main": {
+    "home": "Anasafya",
+    "about": "Hakkımızda",
+    "services": "Hizmetlerimiz",
+    "blog": "Blog",
+    "contacts": "Iletişim",
+    "servicesOption": {
+      "transporting": "Loji̇sti̇k Hi̇zmetleri̇",
+      "interModal": "Intermodal Teslimatlar",
+      "customs": "Gümrük İşlemleri",
+      "warehouse": "Depo Hizmetleri",
+      "agency": "Acentelik Hizmetleri",
+      "consultancy": "Danışmanlık",
+      "insurance": "Sigorta Hizmetleri",
+      "specialShipping": "Özel Taşima Hi̇zmetleri̇ (Tanker, Low-Bed, vb.)",
+      "multiModal": "Multi̇modal Taşimaciliği",
+      "partialShipping": "Parsi̇yel Taşimaciliği"
+    }
+  },
+  "footer": {
+    "contactInfo": "İLETİŞİM BİLGİLERİ",
+    "timeWork": "Çalışma zamanı:",
+    "timeDaily": "Pazartesi-Cuma 9:00-18:00",
+    "timeOff": "Cumartesi 9:00-14:00",
+    "address": "Аdres:",
+    "phone": "Telefon numara:",
+    "email": "E-posta:",
+    "addressInfo": "Çobançeşme, Mah. Sanayi Cd. Address:  Nish Istanbul Residence C BLOK No:44 C Ic Kapi No: 98. Bahcelievler/ISTANBUL"
+  },
+  "about": {
+    "label1": "Herhangi bir ülkeden",
+    "label2": "Herhangi bir ülkeye",
+    "label3": "Kolaylık bizim adımız. ",
+    "main": "Ülkeler arası tüm taşıma seçenekleriyle hizmetinizdeyiz. 17 yıllık geçmişe dayanan uzmanlığımızın bizlere kazandırdığı tecrübe ile bugün sizlere en hızlı ve en pratik lojistik hizmetlerini sunmaktayız. Rusya Federasyonu, BDT ülkelerine, Avrupa, Baltik ülkelerine, ABD, Arabistan ülkelerine ve Afrikaya ürünlerinizin teslimat ve lojistik işlemlerini başarıyla gerçekleştiriyoruz.",
+    "body": "Misyonumuz sadece standart formatları uygulamak değil ; müşterilerimizin faaliyetlerinin özelliklerine ve ekonomik yapılarına en uygun tarifeleri, nakliye koşullarını ve etkileşim yöntemlerini kendilerine sunmak. Lojistik ve taşıma işlemlerinin yanında gümrük işlemleri , operasyonel danışmanlık ve ürün depolama servisleri de sağladığımız hizmetler arasında.",
+    "footer": "Tüm hizmet ve işlemlerimizi şeffaflık , sorumluluk bilinci , sistematik işleyiş ve etkili iletişim ilkeleri altında gerçekleştirmekteyiz."
+  },
+  "contacts": {
+    "label": "Merkez Ofis",
+    "warehouse": "Depo",
+    "office": "Ofis",
+    "labelUz": "Özbekistan'daki ofis",
+    "labelTR": "Türkiye'deki Ofis",
+    "labelRU": "Rusya'daki Ofis",
+    "labelUzWarehouse": "Özbekistan'daki depo",
+    "labelTRWarehouse": "Türkiye'deki depo",
+    "labelRUWarehouse": "Rusya'daki depo",
+    "warehouseAddress": {
+      "1": "Altınşehir, İstiklal Cd. 35, 34494 Başakşehir/İstanbul",
+      "2": "Ferhatpaşa Mah. Aytaşı Sok., No: 114 Ataşehir / İstanbul",
+      "3": "Kashirskoe otoyolu poselok pos Petrovskoe 111, Moskova, Rusya Federasyonu"
+    },
+    "officeAddress": {
+      "1": "Babur şah caddesi No:35, Namangan, Özbekistan",
+      "2": "M.qashqai caddesi 8, Samarkand, Özbekistan",
+      "3": "Kashirskoe otoyolu poselok pos Petrovskoe 111, Moskova, Rusya Federasyonu"
+    }
+  },
+  "home": {
+    "service": {
+      "label":"Müşteri Memnuniyeti",
+      "description": "BOSPHORUS Logistics,  olarak müşteri memnuniyeti bizim için önemlidir."
+    },
+    "truck": {
+      "label":"Zamanında Teslim",
+      "description": "Tüm nakliye hizmetleriniz için zamanında teslimat yapıyoruz."
+    },
+    "users": {
+      "label":"Profesyonel Hizmet",
+      "description": "Profesyonel kadromuz ile en iyi şekilde hizmet vermeye devam ediyoruz."
+    }
+  },
+  "getOffer": {
+    "label": "Bizimle İletişime Geçin",
+    "submit": "Teslim et",
+    "email": "E-posta",
+    "nameSurname": "Ad Soyad",
+    "message": "Mesaj"
+  },
+  "blog": {
+    "incotermLabel": "Incoterms, Dış Ticarette Teslim Şekilleri",
+    "incomtermDescription": "ICC’nin Incoterms® kuralları, malların satışı için gerekli ticaret şartlarıdır. Satın alma siparişi doldururken veya bir nakliye için paketleme ve etiketleme yaparken ya da menşei şahadetnamesi hazırlarken Incoterms® kuralları size rehberlik eder. 2010 yılından itibaren 11 adet teslim şekli vardır. FCA, FOB, CPT, CIF, EXW kısaltmalarıyla bilinen bu teslim şekillerini inceleyiniz.",
+    "incometerm": {
+      "label": "Incoterms, Dış Ticarette Teslim Şekilleri",
+      "description":"Incoterms - Dış ticarette taraflara düşen sorumluluklar, merkezi Paris’te bulunan Uluslararası Ticaret Odası’nca hazırlanan ve Incoterms diye adlandırılan 11 adet teslim şekli ile belirlenmiştir.Incoterms'in düzenlenmesindeki amaç, uluslararası ticarette ortaya çıkan anlaşmazlıkları, uyuşmazlıkları ve hukuki ihtilafları ortadan kaldırmak ve uluslararası standart teslim şekilleri ortaya koymaktır. İncotermsler ilk olarak 1936 yılında düzenlenmiş olup, son olarak 1 Ocak 2020'de gözden geçirilerek yeniden yayınlanmıştır. ",
+      "EXW": {
+        "main": "EXW - ExWorks (Ticari İşletmede Teslim)",
+        "description": "Bu teslim şeklinde satıcı sözleşmede belirtilen tarihte malları alıcıya veya onun emrine teslim etmek üzere işletmesinde hazır bulundurur. Alıcı malları işletmeden teslim alarak ihracı için gerekli belgeleri hazırlar gümrük işlemlerini tamamlayarak malları kendi ülkesine ithal eder. Malların işletmede teslim edilmesinden itibaren malla ilgili bütün masraf ve risk ile diğer yükümlülükler alıcı tarafından karşılanır."
+      },
+      "FCA": {
+        "main": "FCA - Free Carrier (Belirlenen Yerde Taşıyıcıya Teslim)",
+        "description": "Taşıyıcıya teslim terimi, malların gümrük çıkış işlemlerinin satıcı tarafından tamamlanarak, taraflar arasında anlaşılan yer ve zamanda alıcının anlaşma yaptığı taşıma acentesine veya alıcının belirlediği bir şahsa, teslimi ile satıcının yükümlülüğünün sona ereceği anlamına gelir. Malın alıcının belirlediği taşıma acentesine veya şahsa tesliminden sonra tüm sorumluluk alıcıya aittir."
+      },
+      "FAS": {
+        "main": "FAS - Free Alongside Ship (Gemi Doğrultusunda Teslim)",
+        "description":"Bu teslim şeklinde satıcı malları, sözleşmede belirtilen teslim yeri olan geminin yanına kadar getirmekle sorumludur. Mallar gemi rıhtımında ise yükleme yerine getirilerek, gemi açıkta ise mavnalarla geminin yanına kadar götürülerek teslim edilir. Bu teslim şekli sadece deniz veya nehir taşımacılığında kullanılabilir."
+      },
+      "FOB": {
+        "main": "Free On Board (Gemi Bordasında Teslim)",
+        "description": "Bu teslim şeklinde satıcı, ihracat için gerekli tüm belgeleri hazırlayıp, gümrük işlemlerini tamamladıktan sonra, malları belirtilen tarih ve yerde, alıcı tarafından temin edilen gemiye yükler. Mallar geminin küpeştesine (güvertesine) geçtikten sonra satıcı malı teslim etmiş sayılır. Bundan sonra meydana gelebilecek her türlü hasar, kayıp ve masraflar alıcının sorumluluğundadır. \n\nÜlkemizde en çok kullanılan teslim şekli olan FOB, sadece deniz veya nehir taşımacılığında kullanılabilir."
+      },
+      "CFR": {
+        "main": "CFR - Cost and Freight (Mal Bedeli ve Navlun)",
+        "description": "CFR teslim şeklinde, satıcı malları yüklenecek limana kadar getirir. Gümrük işlemlerini yapar, geminin taşıma ücretini öder ve malları gemiye yükler. Mallar gemiye yüklendikten sonra navlun dışındaki tüm masraf ve riskler alıcıya ait olur. Burada dikkat edilmesi gereken husus, malların varış limanına kadar ulaştırılması için ödenen nakliye (navlun) ücretlerini satıcının ödeyeceğidir.\n\nBu teslim şekli sadece deniz ve nehir taşımacılığında kullanılabilir. Bu teslim şeklinde sigorta yaptırma gibi bir zorunluluk yoktur."
+      },
+      "CIF": {
+        "main": "CIF - Cost, Insurance, Freight (Mal Bedeli, Sigorta ve Taşıma)",
+        "description": "Bu teslim şeklinde, satıcı ihraç edeceği malları, gümrük işlemlerini tamamlamış, asgari teminat sağlayan bir sigorta yaptırmış olarak yükleme limanına getirir ve gemiye yükler. Bu teslim şeklinde satıcı ayrıca malın varış limanına kadar olan navlun (taşıma ücreti) ücretini de öder. Malın satıcı tarafından varış limanına kadar olan taşıma ücreti ödenerek, gemiye yükletilmesinden sonra ortaya çıkacak tüm masraflar ve riskler alıcıya aittir. \n\nBu teslim şeklini diğerlerinden ayıran özellik, malın satıcı tarafından yolculuk esnasında doğabilecek hasarlara karşılık sigorta ettirilmesinin zorunlu olmasıdır."
+      },
+      "CIP": {
+        "main": "CIP - Carriage and Insurance Paid (Sigorta Dahil Taşıma Ödenmiş Olarak)",
+        "description": "CIP teslim şeklinde satıcı, ihraç edeceği malları, ihracat gümrük işlemlerini tamamlamış, asgari teminat sağlayan bir sigorta yaptırmış olarak nakliye aracına yükler. Bu teslim şeklinde satıcı ayrıca malın varış yerine kadar olan navlun (taşıma ücreti) ücretini de öder. Malın satıcı tarafından varış yerine kadar olan taşıma masrafları ödenerek, nakliye aracına yüklenmesinden sonra ortaya çıkacak tüm masraflar ve riskler alıcıya aittir."
+      },
+      "CPT": {
+        "main": "CPT - Carriage Paid To (Taşıma Ödenmiş Olarak)",
+        "description": "“Taşıma ödenmiş olarak….” terimi, satıcının malları bizzat kendisinin seçtiği ve anlaşma yaptığı taşıyıcıya, malların, ihracı ile ilgili gümrük işlemleri yapılmış, belirtilen varış yerine gönderilmesi için gereken taşıma masrafları ödenmiş olarak teslim edeceği ve malları ilk taşıyıcının gözetimine devrettiği andan itibaren malla ilgili taşıma ücreti hariç diğer tüm masraf ve risklerin alıcıya geçeceği anlamına gelir. \n\nBu terim çok vasıtalı olanlar da dahil, tüm taşıma şekilleri için kullanılabilir."
+      },
+      "DDP": {
+        "main": "DDP - Delivered Duty Paid (Gümrüğü Ödenmiş Olarak Teslim)",
+        "description": "Bu teslim şeklinde satıcı ithalat işlemlerini de gerçekleştirir ve ithalatla ilgili gümrük vergilerini öder. DDP alıcının sorumluluğunun en az olduğu teslim şeklidir. Alıcı sanki ülke içerisinde herhangi bir firmadan mal alıyormuş gibidir. \n\nEXW terimi satıcı için asgari yükümlülük ifade ederken, DDP terimi azami yükümlülük gösterir."
+      },
+      "DAT": {
+        "main": "DAT – Delivered at Terminal (Terminalde Teslim) ",
+        "description": "Terminalde Teslim kuralı, satıcının malları belirlenen varma yerinde veya limanında belirlenen terminalde gelen taşıma aracından boşaltılmış bir şekilde alıcının tasarrufuna bırakmakla malları teslim ettiğini ifade eder."
+      },
+      "DAP": {
+        "main": "DAP - Delivered At Place (Belirlenen Yerde Teslim)",
+        "description": "Malların, taşıma vasıtasınca boşaltılmak üzere belirtilen belirli bir noktada alıcıya sağlanması (teslim edilmesi) anlamına gelir. DAP başka bir deyişle, Eşyanın alıcı ve satıcı tarafından belirlenmiş olan boşaltma yerinde (bir liman iskelesi, gümrük noktası, havalimanı) boşaltma için hazır durumda nakliye aracının üzerinde alıcı emrine bırakılmasıdır. Tüm gümrük işlemleri, masrafları, gümrükte doğan vergi, resim ve harçlar alıcıya aittir. Malların belirlenen yere taşıma maliyetlerini, terminal bağlantılı zarar risklerini satıcı üstlenir."
+      }
+    }
+  },
+  "insurance": {
+    "label": "Sigorta Hizmetleri",
+    "description": "Bosphorus Logistics Müşterilerine kargo sigortası sunmaktadır. “Tüm risklere karşı” kargo sigortası, nakliye sırasında yükün güvenliğinden endişe etmemenizi sağlayan en uygun ve güvenilir çözümdür ve herhangi bir sorun olması durumunda zararı tam olarak karşılama garantisi verir."
+  },
+  "consultancy": {
+    "label":"Danışmanlık",
+    "description": "Ulusal ve dünya pazarı her zaman yüksek düzeyde rekabet ile karakterizedir. Modern şirketler lider konumunu sürdürmek için sürekli olarak yenilikçi çözümler geliştirmeye, benzersiz promosyon yöntemleri uygulamaya, benzersiz özelliklere sahip ürün ve hizmetler sunmaya çalışmaktadır. Şirketimiz, dış ekonomik faaliyet alanında rekabet avantajı elde etmek, lojistik maliyetlerini optimize etmek ve riskleri azaltmak için emin bir temeldir."
+  },
+  "agency": {
+    "label": "Acentelik Hizmetleri",
+    "description": "BOSPHORUS Logistcs  uluslararası taşımacılık ve gümrükleme alanlarında faaliyet gösteren şirketlere, dış ticaret firmalarına danışmanlık, araç tedarik ve gümrük brokerliğine kadar olan tüm süreçler için acentelik hizmetleri vermektedir."
+  },
+  "warehouse": {
+    "label": "Depo Hizmetleri",
+    "description": "Bosphorus Logistics, faaliyetlerinin bir parçası olarak, çeşitli tür ve boyutlardaki kargoların konsolidasyonu da dahil olmak üzere eksiksiz bir hizmet yelpazesi sunmaktadır. Taşıma şekline göre yükleme tamamlanana kadar malların bizim depoda beklemesini sağlamaktayız."
+  },
+  "clearance": {
+    "label": "Gümrük İşlemleri",
+    "description": "Bosphorus Logistics'in kendi gümrük acentelerinle gümrük işlemler ile ilgili mevzuat düzenlemelerinin özellikleri hizmete sunmaktadır. Bu, BDT ülkelerin ve Rusya Federasyonu'nun gümrüklerinden malları hızlı ve sorunsuz bir şekilde geçirmemizi sağlar. EAC sertifikası sorununu çözmeye yardımcı oluyoruz. Uzmanlarımız çok fazla zaman harcamadan sertifika almanıza yardımcı olacaktır."
+  },
+  "transportation": {
+    "label": "Loji̇sti̇k Hi̇zmetleri̇",
+    "main": "Bosphorus Logistics, yükün güzergahına ve detaylarına bağlı olarak karayolu, demiryolu, deniz ve hava yolu ile ulaşım imkanı sunmaktadır. Gerektiğinde ekibimiz işlemlerinize uygun tüm taşıma modellerini analiz ederek, ürünlerinizin multimodal taşımacılığını da gerçekleştirmektedir. Ayrıca grupaj kargo ve özel teslimat seçenekleri de bu alternatifler içerisinde sunulmaktadır. (Gabari dışı taşıma).",
+    "description": "Ekibimiz, resmi işlemlerin yürütülmesi sürecinde kayıp zamansız bir şekilde çalışır. Böylelikle Bosphorus Logistics, danışmanlık, proje lojistiği, kargo sigortası, depolama, ihracat ve ithalat hizmetleri,gümrük ve ticaret hizmetleri de dahil olmak tüm lojistik işlemlerini en verimli şekilde sunmayı hedefler. Bunların yanında her müşteriye özel süreçler yürüterek; alternatifli ve esnek bir fiyatlandırma politikası izlemekteyiz."
+  },
+  "showLess": "Daha az göster",
+  "showMore": "Daha fazla göster",
+  "transportmenu": {
+    "highway": "KARAYOLU TAŞIMACILIĞI",
+    "maritime": "DENİZYOLU TAŞIMACILIĞI",
+    "airways": "HAVA YOLU TAŞIMACILIĞI",
+    "railway": "DEMİRYOLU TAŞIMACILIĞI"
+  },
+  "airFreight": {
+    "main": "Bosphorus Logistics olarak dünyadaki tüm uluslararası havalimanlarında hizmet vermekteyiz ve varış noktanız neresi olursa olsun mümkün olan en kısa sürelerde ürün teslimi sağlamaktayız. Bunun için portföyümüzden dilediğiniz havayolunu seçebilir , sizlere özel tekliflerimiz için bilgi alabilirsiniz.",
+    "secondary": " Etkin ve verimli havayolu taşımacılığı kapsamında nakliye, kapsamlı kargo sigortası, gümrükleme ve güvenli teslimatlarınız için hizmetinizdeyiz."
+  },
+  "roadFreight": {
+    "main": "Bölgesel yol hizmetlerimiz, Avrupa ve Asya'daki pazarların özel gereksinimlerini karşılamak üzere tasarlanmıştır.Karayolu taşımacılığı hizmetlerimiz, Tam Kamyon Yükü (FTL) ve Parsiyel Kamyon Yükü (LTL) alternatiflerini sağlar.",
+    "secondary": "Birçok ülke arasında sınır ötesi kargo taşımacılığı hizmeti sunmaktayız"
+  },
+  "railwayFreight": {
+    "main": "Bosphorus Logistics, hava ve deniz taşımacılığına uygun maliyetli alternatifler sunarak tedarik zincirinizi güvence altına alan hızlı, güvenilir ve uygun maliyetli demiryolu taşımacılığı çözümleri sunar. Tam Konteyner Yükü (FCL), Kısmi Konteyner Yükü (LCL) ve Blocktrain - seçim sizin. Türkiye'den ve Asya'nın yanı sıra Avrupa'nın her yerinden, yıl boyu süren demiryolu hizmetlerimizin kesintisiz bağlantılarından ve sık seferlerinden yararlanabilirsiniz."
+  },
+  "maritime": {
+    "main": "Spesifik gönderi gereksinimleriniz için özel olarak hazırlanmış çözümler, hizmetlerimizin merkezinde yer alır. Bosphorus Logistics, hem LCL hem de Tam Konteyner Yükü (FCL) nakliyesi için çok çeşitli küresel ve yerel nakliye hizmetleri sunabilir. Kapsamlı denizcilik yönetimi hizmetlerinin yanı sıra yük taşımacılığı, proje taşımacılığı, parsiyel ve tam charter hizmetleri ile desteklenirler."
+  },
+  "shipping": {
+    "main": "Gabar dışı taşımaya mı ihtiyacınız var?",
+    "secondary": "Uzmanlarımız en iyi rotayı seçecek, gerekli tüm belgeleri hazırlayacaktır. Yolculuk boyunca yükümüze rehberlik edecekler."
+  },
+  "multiModal": {
+    "main": "Malların çeşitli taşıma modlarıyla uluslararası multimodal taşımacılığı, özellikle orta ve uzun mesafelerde nakliye söz konusu olduğunda bu çeşit taşıma tercih sebebidir. Multimodal kargo taşımacılığı (kombine, karma) iki veya daha fazla taşıma modu ile gerçekleştirilir: deniz, hava, demiryolu ve karayolu.",
+    "secondary": "Bosphorus Logistics, Müşterilerinin tüm uluslararası destinasyonlara multimodal kargo taşımacılığından tam olarak yararlanmasına yardımcı olur. Bosphorus Logistics çalışanları, Müşterinin ihtiyaçlarını ve kargonun özelliklerini analiz eder, en uygun teslimat rotasını çizer ve multimodal kargo taşımacılığının maliyetini hesaplar."
+  },
+  "partialShipping": {
+    "main": "Bosphorus Logistics'in 17 yıldır en önemli faaliyetlerinden biri grupaj kargo taşımacılığı. Bu hizmet, bireysel girişimcilerden büyük üreticilere ve ihracatçılara kadar çeşitli büyüklükteki şirketler arasında talep görmektedir. Farklı göndericilerden gelen küçük boyutlu malların tek bir araç üzerinde tek yönde taşınmasıdır. Bu teslimat yöntemi, taşınan malların güvenliğini garanti etmek için araçtaki alanın verimli kullanımı nedeniyle nakliye maliyetini düşürmeye olanak tanır."
+  },
+  "notifcation": "Mesaj başarıyla gönderildi",
+  "footerCopyright": "2022 | Tüm Hakları saklıdır | Gizlilik Politikası"
+}
+

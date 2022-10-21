@@ -1,0 +1,196 @@
+{
+  "main": {
+    "home": "Главная",
+    "about": "О Нас",
+    "services": "Наши Услуги",
+    "blog": "Блог",
+    "contacts": "Контакты",
+    "servicesOption": {
+      "transporting": "Транспорт и услуги",
+      "customs": "Таможенное оформление",
+      "warehouse": "Складские услуги",
+      "agency": "Агентские услуги",
+      "consultancy": "Консультирование",
+      "insurance": "Cтрахование",
+      "specialShipping": "Спец. Поставки (Танкеры, Тралы и т.д.)",
+      "multiModal": "Мультимодальные Перевозки",
+      "partialShipping": "Cборные Грузы"
+    }
+  },
+  "footer": {
+    "contactInfo": "КОНТАКТЫ",
+    "timeWork": "Время работы:",
+    "timeDaily": "Понедельник-Пятница 9:00-18:00",
+    "timeOff": "Суббота 9:00-14:00",
+    "address": "Адрес:",
+    "phone": "Номер телефона:",
+    "email": "Эл.адрес:",
+    "addressInfo": "Cobancesme Mah. Sanayi Cad. Nish Residence C BLOK No:44 C Ic Kapi No: 98. Bahcelievler/ISTANBUL"
+  },
+  "about": {
+    "label1": "Из любой точки",
+    "label2": "В любую точку",
+    "label3": "И точка.",
+    "main": "Наша специализация – это перевозка любым видом транспорта между странами. Чего мы только не повидали на грузоперевозках за семнадцать лет. Мы успешно занимаемся доставкой грузов по РФ, странам СНГ, Европе, Прибалтике, США, Аравийский полуостров и Африке.",
+    "body": "Наш принцип – не только соответствовать современной ценообразовательной политике, но и предлагать тарифы, условия перевозок и методы взаимодействия, которые наилучшим образом будут соответствовать специфике и экономической составляющей деятельности наших клиентов, позволят максимально эффективно решить проблемы перевозок и реализовать не только перевозку грузов, но и эффективно и быстро решить таможенное оформление, помочь с решением сертификации, а также предоставить услуги хранения товаров на наших складах.",
+    "footer": "Честность, открытость, ответственность, возможность поэтапного контроля - принципы, которых придерживаемся мы в отношениях с Клиентами и Партнерами."
+  },
+  "contacts": {
+    "label": "Главный Офис",
+    "warehouse": "СКЛАД",
+    "office": "Офис",
+    "labelUz": "Офис в Узбекистане",
+    "labelTR": "Офис в Турции",
+    "labelRU": "Офис в России",
+    "labelUzWarehouse": "Склад в Узбекистане",
+    "labelTRWarehouse": "Склад в Турции",
+    "labelRUWarehouse": "Склад в России",
+    "warehouseAddress": {
+      "1": "Altinsehir, Istiklal Cd. 35, 34494 Basaksehir/Istanbul",
+      "2": "Ferhatpasa Mah. Aytasi Sok., No: 114 Atasehir / Istanbul  ",
+      "3": "Каширское шоссе поселок пос Петровское 111, г. Москва, РФ"
+    },
+    "officeAddress": {
+      "1": "Baburshah street 35, Namangan, Uzbekistan",
+      "2": "M.qashqari street 8, Samarkand, Uzbekistan",
+      "3": "Каширское шоссе поселок пос Петровское 111, г. Москва, РФ"
+    }
+  },
+  "home": {
+    "service": {
+      "label":"Отзыв клиента",
+      "description": "Ваше мнение очень важно для нас."
+    },
+    "truck": {
+      "label":"Своевременная доставка",
+      "description": "Мы доставляем максимально быстро и надежно все ваши грузы."
+    },
+    "users": {
+      "label":"Профессиональное обслуживание",
+      "description": "Мы работаем с профессиональными сотрудниками."
+    }
+  },
+  "getOffer": {
+    "label": "Свяжитесь с нами",
+    "submit": "Отправить",
+    "email": "Эл.адрес",
+    "nameSurname": "Имя Фамилия",
+    "message": "сообщение"
+  },
+  "blog": {
+    "incotermLabel": "Incoterms",
+    "incomtermDescription": "Incoterms in Russian will be uploaded soon.",
+    "incometerm": {
+      "label": "Incoterms",
+      "description":"Incoterms - a.k.a. Trade Terms are key elements of international contracts of sale. They tell the parties what to do with respect to carriage of the goods from buyer to seller, and export & import clearance. They also explain the division of costs and risks between the parties.\n\nPlease see below an overview of Incoterms and their vision. ",
+      "EXW": {
+        "main": "EXW - ExWorks",
+        "description": "This term represents the seller's minimum obligation, since he only has to place the goods at the disposal of the buyer. The buyer must carry out all tasks of export & import clearance. Carriage & insurance is to be arranged by the buyer."
+      },
+      "FCA": {
+        "main": "FCA - Free Carrier",
+        "description": "This term means that the seller delivers the goods, cleared for export, to the carrier nominated by the buyer at the named place. Seller pays for carriage to the named place."
+      },
+      "FAS": {
+        "main": "FAS - Free Alongside Ship",
+        "description":"This term means that the seller delivers when the goods are placed alongside the vessel at the named port of shipment. The seller is required to clear the goods for export. The buyer has to bear all costs & risks of loss or damage to the goods from that moment. This term can be used for ocean transport only."
+      },
+      "FOB": {
+        "main": "Free On Board",
+        "description": "This term means that the seller delivers when the goods pass the ship's rail at the named port of shipment. This means the buyer has to bear all costs & risks to the goods from that point. The seller must clear the goods for export. This term can only be used for ocean transport. If the parties do not intend to deliver the goods across the ship's rail, the FCA term should be used."
+      },
+      "CFR": {
+        "main": "CFR - Cost and Freight",
+        "description": "This term means the seller delivers when the goods pass the ship's rail in the port of shipment. Seller must pay the costs & freight necessary to bring the goods to the named port of destination, BUT the risk of loss or damage, as well as any additional costs due to events occurring after the time of delivery are transferred from seller to buyer. Seller must clear goods for export. This term can only be used for ocean transport."
+      },
+      "CIF": {
+        "main": "CIF - Cost, Insurance, Freight",
+        "description": "The seller delivers when the goods pass the ship's rail in the port of shipment. Seller must pay the cost & freight necessary to bring goods to named port of destination. Risk of loss & damage same as CFR. Seller also has to procure marine insurance against buyer's risk of loss/damage during the carriage. Seller must clear the goods for export. This term can only be used for ocean transport."
+      },
+      "CIP": {
+        "main": "CIP - Carriage and Insurance Paid",
+        "description": "This term is the same as CPT with the exception that the seller also has to procure insurance against the buyer's risk of loss or damage to the goods during the carriage. This term may be used for any mode of transportation.   "
+      },
+      "CPT": {
+        "main": "CPT - Carriage Paid To",
+        "description": "This term means that the seller delivers the goods to the carrier nominated by him but the seller must in addition pay the cost of carriage necessary to bring the goods to the named destination. The buyer bears all costs occurring after the goods have been so delivered. The seller must clear the goods for export. This term may be used irrespective of the mode of transport (including multimodal). "
+      },
+      "DDP": {
+        "main": "DDP - Delivered Duty Paid.",
+        "description": "This term represents maximum obligation to the seller. This term should not be used if the seller is unable to directly or indirectly to obtain the import license. The terms means the same as the DDU term with the exception that the seller also will bear all costs & risks of carrying out customs formalities including the payment of duties, taxes & customs fees."
+      },
+      "DAT": {
+        "main": "DAT – Delivered at Terminal",
+        "description": "Seller pays for carriage to the terminal, except for costs related to import clearance, and assumes all risks up to the point that the goods are unloaded at the terminal."
+      },
+      "DAP": {
+        "main": "DAP - Delivered At Place",
+        "description": "Seller pays for carriage to the named place, except for costs related to import clearance, and assumes all risks prior to the point that the goods are ready for unloading by the buyer. The incoterms define the role between seller and buyer at an international transaction. Who has to do what en at what time? In the contract between the seller and the buyer, the following is determined:\n\nThe duties of the buyer and the seller\nWho takes care of the insurances, licences, permissions and all other formalities\nWho arranges the transport untill which point and who is responsible for this\nThe point where the costs and risks pass on from the seller to the buyer.There are thirteen different incoterms in Incoterms 2000 and 2010. These incoterms take care of the international rights and duties from the buyer and the seller. Six of of the thirteen incoterms are about ocean freight. The remaining seven incoterms are regarding all transport modalities. The Incoterms are being prepared and published by the International Chamber of Commerce (ICC). "
+      }
+    }
+  },
+  "insurance": {
+    "label": "Cтрахование",
+    "description": "В качестве сопутствующей логистической услуги Bosphorus Logistics предлагает своим Клиентам страхование грузов. Страхование грузов «от всех рисков» – это максимально удобное и надежное решение, позволяющее не беспокоиться о сохранности груза в процессе транспортировки, а в случае возникновения проблем дающее гарантию полного покрытия убытков."
+  },
+  "consultancy": {
+    "label":"Консалтинг",
+    "description": "В настоящее время большинство национальных и мировых рынков характеризуются высоким уровнем конкуренции. Для удержания лидирующих позиций современные компании постоянно стремятся разработать инновационные решения, применить уникальные методы продвижения, предложить продукты и услуги с уникальными свойствами. Наша компания является верной опорой для получения конкурентных преимуществ, оптимизации затрат на логистику и снижения рисков в сфере внешнеэкономической деятельности."
+  },
+  "agency": {
+    "label": "Агентские услуги",
+    "description": "BOSPHORUS Logistcs также оказывает комплексные агентские услуги, начиная с консалтинга, предоставления транспортных средств и заканчивая брокерскими услугами, компаниям, осуществляющим деятельность в сфере международных перевозок и таможенного оформления, а также внешнеторговым компаниям."
+  },
+  "warehouse": {
+    "label": "Складские услуги",
+    "description": "В рамках своей деятельности компания Bosphorus Logistics предлагает полный комплекс услуг, включая консолидацию грузов различных видов и габаритов. Хранение  грузов на складе до тех пор, пока не выполнится погрузка на обговоренный вид транспорта."
+  },
+  "certification": {
+    "label": "Сертификация",
+    "description": "Российский Сертификат соответствия ГОСТ Р\nСертификат ГОСТ-Р\nСертификат Таможенного Союза EAC\nРоссийский Сертификат пожарной безопасности\nДекларация соответствия ГОСТ Р\nДекларация EAC\nРоссийская Техническая Спецификация\nСертификат средств измерений ГОСТ Р\nСвидетельство о государственной регистрации продукции (СГР ТС)\nС Real Transport вы решите все вопросы, связанные с получением российских сертификатов и свидетельств, а также любого рода сертификатов стран, входящих в состав таможенного союза, и сможете воспользоваться нашим богатым опытом в этой сфере получая качественные, бесперебойные и надежные услуги."
+  },
+  "clearance": {
+    "label": "Таможенное оформление",
+    "description": "Сотрудники компании Bosphorus Logistics в собственных таможенных агентств досконально знают особенности законодательного регулирования таможенного сопровождения товаров. Это позволяет нам быстро и беспроблемно оформлять грузы через таможню государств-членов СНГ и РФ.Помогаем решить вопрос с сертификацией ЕАС. Наши специалисты помогут вам получить сертификат не затрачивая много времени."
+  },
+  "transportation": {
+    "label": "Транспорт и услуги",
+    "main": "В зависимости от маршрута и деталей груза, компания Bosphorus Logistics предлагает перевозку автомобильным, железнодорожным, морским и воздушным транспортом. При необходимости наша команда также готова разработать мультимодальную транспортировку вашего товара, где будут учтены преимущества всех видов транспорта. Также предложим варианты по доставке сборного груза и спец. поставок (габаритные грузы).",
+    "description": "Наша команда работает оперативно и быстро, без временных затрат для Клиента на оформление различных документов.  Поэтому компания Bosphorus Logistics оказывает комплекс транспортно-экспедиторских услуг, включая консалтинг, проектную логистику, страхование груза, складское оформление, услуги экспорта и импорта, таможенные и торговые услуги. При этом мы работаем с каждым Клиентом индивидуально и предлагаем гибкую систему скидок. Предоставляем нашим постоянным Клиентам возможность фиксирования цен на определенный срок. "
+  },
+  "showLess": "Показывай меньше",
+  "showMore": "Показать больше",
+  "transportmenu": {
+    "highway": "АВТО ПЕРЕВОЗКИ",
+    "maritime": "МОРСКИЕ ПЕРЕВОЗКИ",
+    "airways": "АВИАПЕРЕВОЗКИ",
+    "railway": "Ж/Д ПЕРЕВОЗКИ"
+  },
+  "airFreight": {
+    "main": "Bosphorus Logistics our services cover all main international airports around the world and we’re counting on that to choose the airlines companies that can transport goods in record time wherever your destination is and with our services special offers we provide easy services in completing the necessary procedures for shipping, comprehensive cargo insurance, custom clearance and the safe delivery of it.",
+    "secondary": "As Bosphorus Logistics we are aware of the importance of accessing efficient logistics services in air freight which reflect in the development and growth of companies and projects in the face of market challenges and the existing competition."
+  },
+  "roadFreight": {
+    "main": "Наши региональные дорожные услуги предназначены для удовлетворения конкретных требований рынков в Европе и Азии.Наши услуги в автомобильных перевозках обеспечивает полную загрузку грузовика (FTL) и неполную загрузку грузовика (LTL).",
+    "secondary": "Мы предлагаем трансграничные международные грузоперевозки."
+  },
+  "railwayFreight": {
+    "main": "Bosphorus Logistics предлагает быстрые, надежные и экономичные железнодорожные транспортные решения, которые обезопасят вашу цепочку поставок, предоставляя выгодные альтернативы воздушным и морским перевозкам. Полная загрузка контейнера (FCL), неполная загрузка контейнера (LCL) и Blocktrain — выбор за вами. От Турции и по всей Азии, а также по всей Европе вы можете воспользоваться беспрепятственными стыковками и частыми отправлениями наших круглогодичных железнодорожных перевозок."
+  },
+  "maritime": {
+    "main": "Индивидуальные решения для ваших конкретных требований к морским перевозкам лежат в основе наших услуг. Bosphorus Logistics может предложить широкий спектр глобальных и местных услуг по морским перевозкам как для перевозок с загрузкой частичного контейнера (LCL), так и для перевозок с полной загрузкой контейнера (FCL). Они поддерживаются комплексными услугами по управлению морскими перевозками, а также перевозкой грузов, экспедированием проектов, частичными и полными чартерными услугами. "
+  },
+  "shipping": {
+    "main": "Нужна габаритная перевозка?",
+    "secondary": "Наши сотрудники подберут оптимальный маршрут, подготовят все необходимые документы. Будут вести ваш груз на протяжении всего пути."
+  },
+  "multiModal": {
+    "main": "Организация перевозки сборных грузов – одно из ключевых направлений деятельности Bosphorus Logistics на протяжении 17 лет. Данная услуга востребована среди компаний различных масштабов, от индивидуальных предпринимателей до крупных производителей и экспортеров. ",
+    "secondary": "Сборная доставка представляет собой перевозку мелкогабаритных товаров разных отправителей на одном транспортном средстве в одном направлении. Такой способ доставки позволяет снизить стоимость транспортировки за счет эффективного использования пространства в транспортном средстве, гарантировать безопасность перевозимых товаров. "
+  },
+  "partialShipping": {
+    "main": "Организация перевозки сборных грузов – одно из ключевых направлений деятельности Bosphorus Logistics на протяжении 17 лет. Данная услуга востребована среди компаний различных масштабов, от индивидуальных предпринимателей до крупных производителей и экспортеров. Сборная доставка представляет собой перевозку мелкогабаритных товаров разных отправителей на одном транспортном средстве в одном направлении. Такой способ доставки позволяет снизить стоимость транспортировки за счет эффективного использования пространства в транспортном средстве, гарантировать безопасность перевозимых товаров. "
+  },
+  "notifcation": "Сообщение было успешно отправлено",
+  "footerCopyright": "2022 | Все права защищены | Политика конфиденциальности"
+}

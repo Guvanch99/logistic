@@ -1,0 +1,196 @@
+{
+  "main": {
+    "home": "Home",
+    "about": "About us",
+    "services": "Our Services",
+    "blog": "Blog",
+    "contacts": "Contacts",
+    "servicesOption": {
+      "transporting": "Transport and Services",
+      "customs": "Customs Brokerage",
+      "warehouse": "Warehouse Services",
+      "agency": "Agency Services",
+      "consultancy": "Consultancy",
+      "insurance": "Insurance",
+      "specialShipping": "Special Shipping (Cargo, Tankers, Low-Bed, etc.) ",
+      "multiModal": "Multimodal Shipping",
+      "partialShipping": "Partial Shipping"
+    }
+  },
+  "footer": {
+    "contactInfo": "CONTACT INFORMATION",
+    "address": "Address:",
+    "phone": "Phone:",
+    "timeWork": "Work time:",
+    "timeDaily": "Monday-Friday 9:00-18:00",
+    "timeOff": "Saturday 9:00-14:00",
+    "email": "Email:",
+    "addressInfo": "Cobancesme Mah. Sanayi Cad. Nish Istanbul Residence C BLOK No:44 C Ic Kapi No: 98. Bahcelievler/ISTANBUL"
+  },
+  "contacts": {
+    "label": "Head Office",
+    "warehouse": "Warehouse",
+    "office": "Office",
+    "labelUz": "Office in Uzbekistan",
+    "labelTR": "Office in Turkey",
+    "labelRU": "Office in Russia",
+    "labelUzWarehouse": "Warehouse in Uzbekistan",
+    "labelTRWarehouse": "Warehouse in Turkey",
+    "labelRUWarehouse": "Warehouse in Russia",
+    "warehouseAddress": {
+      "1": "Altinsehir, Istiklal Cd. 35, 34494 Basaksehir/Istanbul",
+      "2": "Ferhatpasa Mah. Aytasi Sok., No: 114 Atasehir / Istanbul  ",
+      "3": "Kashirskoe highway village of Petrovskoe 111, Moscow, Russian Federation "
+    },
+    "officeAddress": {
+      "1": "Baburshah street 35, Namangan, Uzbekistan",
+      "2": "M.qashqari street 8, Samarkand, Uzbekistan",
+      "3": "Kashirskoe highway village of Petrovskoe 111, Moscow, Russian Federation"
+    }
+  },
+  "about": {
+    "label1":"From anywhere",
+    "label2":"To any point",
+    "label3":"That’s it.",
+    "main": "Specialization of our company is transportation by any mode of transport between countries all around the world. Our seventeen years experience showed us all the varieties of transportation solutions with which now we can help our clients to solve. We are successfully engaged in the delivery of goods in the Russian Federation, CIS countries, Europe, Baltic countries, USA, Arabian peninsula and Africa.",
+    "body": "Our principle is not only to comply with modern pricing policy, but also to offer tariffs, transportation conditions and methods of interaction that will best suit the specifics and economic component of our customer’s activities. Also will allow us to solve transportation problems as efficiently as possible and implement not only the transportation of goods, but also efficiently and quickly solve customs clearance, help with the decision of certification, as well as provide storage services for goods in our warehouses.",
+    "footer": "Honesty, openness, responsibility, the possibility to control all the stages of transportation is the principle that we adhere to in relations with our Clients and Partners."
+  },
+  "home": {
+    "service": {
+      "label":"Customer Satisfaction",
+      "description": "At BOSPHORUS Logistics, customer satisfaction is important to us."
+    },
+    "truck": {
+      "label":"  Delivery on Time",
+      "description": "We deliver on time for all your shipping services."
+    },
+    "users": {
+      "label":"Professional Service",
+      "description": " We continue to serve in the best way with our professional staff."
+    }
+  },
+  "getOffer": {
+    "label": "Contact us",
+    "submit": "Submit",
+    "email": "Email",
+    "nameSurname": "Name Surname",
+    "message": "Message"
+  },
+  "blog": {
+    "incotermLabel": "Trade Terms (INCOTERMS)",
+    "incomtermDescription": "The Incoterms define the role between seller and buyer at an international transaction. There are eleven different incoterms in 2010 such as FCA, FOB, CPT, CIF, EXW.Read more about this.",
+    "incometerm": {
+      "label": "Incoterms",
+      "description":"Incoterms - a.k.a. Trade Terms are key elements of international contracts of sale. They tell the parties what to do with respect to carriage of the goods from buyer to seller, and export & import clearance. They also explain the division of costs and risks between the parties.\n\nPlease see below an overview of Incoterms and their vision. ",
+      "EXW": {
+        "main": "EXW - ExWorks",
+        "description": "This term represents the seller's minimum obligation, since he only has to place the goods at the disposal of the buyer. The buyer must carry out all tasks of export & import clearance. Carriage & insurance is to be arranged by the buyer."
+      },
+      "FCA": {
+        "main": "FCA - Free Carrier",
+        "description": "This term means that the seller delivers the goods, cleared for export, to the carrier nominated by the buyer at the named place. Seller pays for carriage to the named place."
+      },
+      "FAS": {
+        "main": "FAS - Free Alongside Ship",
+        "description":"This term means that the seller delivers when the goods are placed alongside the vessel at the named port of shipment. The seller is required to clear the goods for export. The buyer has to bear all costs & risks of loss or damage to the goods from that moment. This term can be used for ocean transport only."
+      },
+      "FOB": {
+        "main": "Free On Board",
+        "description": "This term means that the seller delivers when the goods pass the ship's rail at the named port of shipment. This means the buyer has to bear all costs & risks to the goods from that point. The seller must clear the goods for export. This term can only be used for ocean transport. If the parties do not intend to deliver the goods across the ship's rail, the FCA term should be used."
+      },
+      "CFR": {
+        "main": "CFR - Cost and Freight",
+        "description": "This term means the seller delivers when the goods pass the ship's rail in the port of shipment. Seller must pay the costs & freight necessary to bring the goods to the named port of destination, BUT the risk of loss or damage, as well as any additional costs due to events occurring after the time of delivery are transferred from seller to buyer. Seller must clear goods for export. This term can only be used for ocean transport."
+      },
+      "CIF": {
+        "main": "CIF - Cost, Insurance, Freight",
+        "description": "The seller delivers when the goods pass the ship's rail in the port of shipment. Seller must pay the cost & freight necessary to bring goods to named port of destination. Risk of loss & damage same as CFR. Seller also has to procure marine insurance against buyer's risk of loss/damage during the carriage. Seller must clear the goods for export. This term can only be used for ocean transport."
+      },
+      "CIP": {
+        "main": "CIP - Carriage and Insurance Paid",
+        "description": "This term is the same as CPT with the exception that the seller also has to procure insurance against the buyer's risk of loss or damage to the goods during the carriage. This term may be used for any mode of transportation.   "
+      },
+      "CPT": {
+        "main": "CPT - Carriage Paid To",
+        "description": "This term means that the seller delivers the goods to the carrier nominated by him but the seller must in addition pay the cost of carriage necessary to bring the goods to the named destination. The buyer bears all costs occurring after the goods have been so delivered. The seller must clear the goods for export. This term may be used irrespective of the mode of transport (including multimodal). "
+      },
+      "DDP": {
+        "main": "DDP - Delivered Duty Paid.",
+        "description": "This term represents maximum obligation to the seller. This term should not be used if the seller is unable to directly or indirectly to obtain the import license. The terms means the same as the DDU term with the exception that the seller also will bear all costs & risks of carrying out customs formalities including the payment of duties, taxes & customs fees."
+      },
+      "DAT": {
+        "main": "DAT – Delivered at Terminal",
+        "description": "Seller pays for carriage to the terminal, except for costs related to import clearance, and assumes all risks up to the point that the goods are unloaded at the terminal."
+      },
+      "DAP": {
+        "main": "DAP - Delivered At Place",
+        "description": "Seller pays for carriage to the named place, except for costs related to import clearance, and assumes all risks prior to the point that the goods are ready for unloading by the buyer. The incoterms define the role between seller and buyer at an international transaction. Who has to do what en at what time? In the contract between the seller and the buyer, the following is determined:\n\nThe duties of the buyer and the seller\nWho takes care of the insurances, licences, permissions and all other formalities\nWho arranges the transport untill which point and who is responsible for this\nThe point where the costs and risks pass on from the seller to the buyer.There are thirteen different incoterms in Incoterms 2000 and 2010. These incoterms take care of the international rights and duties from the buyer and the seller. Six of of the thirteen incoterms are about ocean freight. The remaining seven incoterms are regarding all transport modalities. The Incoterms are being prepared and published by the International Chamber of Commerce (ICC). "
+      }
+    }
+  },
+  "consultancy": {
+    "label":"Consulting",
+    "description": "Currently, most national and world markets are characterized by a high level of competition. To maintain a leading position, modern companies are constantly striving to develop innovative solutions, apply unique promotion methods, offer products and services with unique properties. Our company is a sure footing for obtaining competitive advantages, optimizing logistics costs and reducing risks in the field of foreign economic activity."
+  },
+  "insurance": {
+    "label": "Insurance",
+    "description": "As an accompanying logistics service, Bosphorus Logistics offers cargo insurance to its Clients. Cargo insurance “against all risks” is the most convenient and reliable solution that allows you not to worry about the safety of the cargo during transportation, and in case of problems it provides a guarantee of full coverage of losses."
+  },
+  "agency": {
+    "label": "Agency Services",
+    "description": "BOSPHORUS Logistcs renders agency services to companies operating in international transportation and customs clearance in the fields of consultancy services to foreign trade companies, vehicle supply and customs brokership."
+  },
+  "certification": {
+    "label": "Certification",
+    "description": "Russian Gost R Certificate\nGost-R Certificate\nEAC Customs Unions Certificate\nRussian Fire Extinguishing Certificate\nGost R Declaration of Compliance\nEAC Declaration\nRussian Technical Specification\nGost R Measurement Certificate\nSGR Certificate\nYou could solve all types of certification issues of countries included in customs union as well as Russian Certificates and Russian Documents and you could receive faultless and sustainable service by benefiting from the experience of Real Transport."
+  },
+  "clearance": {
+    "label": "Customs Brokerage",
+    "description": "Bosphorus Logistics are thoroughly aware of the peculiarities of legislative regulation of customs escort of goods and are working with their own customs agencies. This allows us to quickly and seamlessly clear goods through the customs of the CIS states and the Russian Federation. We help to solve the issue of EAC certification. Our experts will help you get a certificate without spending a lot of time."
+  },
+  "warehouse": {
+    "label": "Warehouse services",
+    "description": "As part of its activities, Bosphorus Logistics offers a full range of services, including the consolidation of cargo of various types and dimensions. Storage of goods in a warehouse until the loading on the agreed mode of transport is completed."
+  },
+  "transportation": {
+    "label": "Transport and Services",
+    "main": "Bosphorus Logistics can offer transportation by road, rail, sea and air, depending on the route and details of the cargo. In case if needed, our team is also ready to develop a multimodal transportation of your goods, wıth all the advantages of all modes of transport. We can also offer options for the delivery of groupage cargo and special deliveries (oversized cargo).",
+    "description": "Our team works promptly and quickly, to avoid our Clients lose their time on the execution of various documents. Therefore, Bosphorus Logistics provides a range of freight forwarding services, including consulting, project logistics, cargo insurance, warehousing, export and import services, customs and trade services. At the same time, we work with each Client individually and offer a flexible system of discounts. We provide our regular customers with the opportunity to fix prices for a certain period."
+  },
+  "showLess": "Show less",
+  "showMore": "Show more",
+  "transportmenu": {
+    "highway": "ROAD FREIGHT",
+    "maritime": "Ocean Freight",
+    "airways": "AIR FREIGHT",
+    "railway": "RAILWAY FREIGHT"
+  },
+  "airFreight": {
+    "main": "Bosphorus Logistics our services cover all main international airports around the world and we’re counting on that to choose the airlines companies that can transport goods in record time wherever your destination is and with our services special offers we provide easy services in completing the necessary procedures for shipping, comprehensive cargo insurance, custom clearance and the safe delivery of it.",
+    "secondary": "As Bosphorus Logistics we are aware of the importance of accessing efficient logistics services in air freight which reflect in the development and growth of companies and projects in the face of market challenges and the existing competition."
+  },
+  "roadFreight": {
+    "main": "Our regional road services are designed to meet the specific requirements of markets in Europe and Asia.Our road transport services provide Full Truck Load (FTL) and Partial Truck Load (LTL).",
+    "secondary": "We offer cross-border international cargo transportation."
+  },
+  "railwayFreight": {
+    "main": "Bosphorus Logistics provides fast, reliable and cost-effective rail transport solutions that secure your supply chain by providing cost effective alternatives to air and sea shipping. Full Container Load (FCL), Partial Container Load (LCL) and Blocktrain - the choice is yours. From Turkey and throughout Asia, as well as throughout Europe, you can benefit from the seamless connections and frequent departures of our year-round rail services."
+  },
+  "maritime": {
+    "main": "Tailor-made solutions for your specific shipping requirements are at the heart of our services. Bosphorus Logistics can offer a wide range of global and local shipping services for both LCL and Full Container Load (FCL) shipping. They are supported by comprehensive maritime management services as well as freight forwarding, project forwarding, partial and full charter services."
+  },
+  "shipping": {
+    "main": "Need dimensional transportation?",
+    "secondary": "Our specialists will select the best route, prepare all the necessary documents. They will guide your cargo throughout the journey."
+  },
+  "multiModal": {
+    "main": "International multimodal transportation of goods by various modes of transport occupy a leading position in the cargo transportation market, especially when it comes to transportation over medium and long distances. Multimodal cargo transportation (combined, mixed) is carried out by two or more modes of transport: sea, air, rail and road.",
+    "secondary": "Bosphorus Logistics helps Clients take full advantage of multimodal cargo transportation to all international destinations. Bosphoprus Logistics specialists analyze the needs of the Client and the characteristics of the cargo, draw up the optimal delivery route and calculate the cost of combined cargo transportation."
+  },
+  "partialShipping": {
+    "main": "Groupage cargo transportation has been one of the key facilities of Bosphorus Logistics for 17 years. This service is in demand among companies of various sizes, from individual entrepreneurs to large manufacturers and importers. Transportation of small-sized goods from different senders on one vehicle in one direction this is the definition of groupage shipping. This method of delivery allows to reduce the cost of transportation due to the efficient use of space in the vehicle, to guarantee the safety of the transported goods."
+  },
+  "notifcation": "Message was successfully send",
+  "footerCopyright": "2022 | All rights reserved | Privacy policy"
+}
