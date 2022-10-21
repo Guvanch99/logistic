@@ -106,6 +106,7 @@ const Contacts = () => {
   const { t } = useTranslation('translation')
   return (
     <WrapperStyled>
+      <LabelStyled>{t('contacts.label')}</LabelStyled>
       <div>
         <CardStyled isTablet={isTablet}>
           <TextStyled>

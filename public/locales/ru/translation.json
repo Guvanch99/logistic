@@ -37,11 +37,11 @@
   },
   "contacts": {
     "label": "Главный Офис",
-    "warehouse": "СКЛАД",
-    "office": "Офис",
-    "labelUz": "Офис в Узбекистане",
-    "labelTR": "Офис в Турции",
-    "labelRU": "Офис в России",
+    "warehouse": "Cклады",
+    "office": "Филиалы",
+    "labelUz": "Филиал в Узбекистане",
+    "labelTR": "Филиал в Турции",
+    "labelRU": "Филиал в России",
     "labelUzWarehouse": "Склад в Узбекистане",
     "labelTRWarehouse": "Склад в Турции",
     "labelRUWarehouse": "Склад в России",
@@ -78,54 +78,54 @@
     "message": "сообщение"
   },
   "blog": {
-    "incotermLabel": "Incoterms",
-    "incomtermDescription": "Incoterms in Russian will be uploaded soon.",
+    "incotermLabel": "Инкотермс",
+    "incomtermDescription": "",
     "incometerm": {
-      "label": "Incoterms",
-      "description":"Incoterms - a.k.a. Trade Terms are key elements of international contracts of sale. They tell the parties what to do with respect to carriage of the goods from buyer to seller, and export & import clearance. They also explain the division of costs and risks between the parties.\n\nPlease see below an overview of Incoterms and their vision. ",
+      "label": "Инкотермс",
+      "description":"Инкотермс, также известные как торговые термины, являются ключевыми элементами международных договоров купли-продажи. Они сообщают сторонам, что делать в отношении перевозки товара от покупателя к продавцу, а также оформления экспорта и импорта. Они также объясняют разделение затрат и рисков между сторонами. Пожалуйста, ознакомьтесь ниже с обзором Инкотермс и их видением.",
       "EXW": {
         "main": "EXW - ExWorks",
-        "description": "This term represents the seller's minimum obligation, since he only has to place the goods at the disposal of the buyer. The buyer must carry out all tasks of export & import clearance. Carriage & insurance is to be arranged by the buyer."
+        "description": "Этот термин представляет собой минимальное обязательство продавца, поскольку он должен только предоставить товар в распоряжение покупателя. Покупатель должен выполнить все задачи по оформлению экспорта и импорта. Перевозка и страхование должны быть организованы покупателем."
       },
       "FCA": {
-        "main": "FCA - Free Carrier",
-        "description": "This term means that the seller delivers the goods, cleared for export, to the carrier nominated by the buyer at the named place. Seller pays for carriage to the named place."
+        "main": "Перевозчик, свободный от FCA",
+        "description": "Этот термин означает, что продавец доставляет товар, прошедший таможенную очистку для экспорта, перевозчику, указанному покупателем в названном месте. Продавец оплачивает перевозку до указанного места."
       },
       "FAS": {
-        "main": "FAS - Free Alongside Ship",
-        "description":"This term means that the seller delivers when the goods are placed alongside the vessel at the named port of shipment. The seller is required to clear the goods for export. The buyer has to bear all costs & risks of loss or damage to the goods from that moment. This term can be used for ocean transport only."
+        "main": "FAS - Free рядом с судном",
+        "description":"Этот термин означает, что продавец осуществляет поставку, когда товар помещен рядом с судном в названном порту отгрузки. Продавец обязан произвести таможенную очистку товара для экспорта. С этого момента покупатель должен нести все расходы и риски потери или повреждения товара. Этот термин может быть использован только для морских перевозок."
       },
       "FOB": {
-        "main": "Free On Board",
-        "description": "This term means that the seller delivers when the goods pass the ship's rail at the named port of shipment. This means the buyer has to bear all costs & risks to the goods from that point. The seller must clear the goods for export. This term can only be used for ocean transport. If the parties do not intend to deliver the goods across the ship's rail, the FCA term should be used."
+        "main": "Бесплатно на борту",
+        "description": "Этот термин означает, что продавец осуществляет поставку, когда товар проходит поручни судна в названном порту отгрузки. Это означает, что с этого момента покупатель должен нести все расходы и риски, связанные с товаром. Продавец должен произвести таможенную очистку товара для экспорта. Этот термин может быть использован только для морского транспорта. Если стороны не намерены доставлять груз через поручни судна, следует использовать термин FCA."
       },
       "CFR": {
-        "main": "CFR - Cost and Freight",
-        "description": "This term means the seller delivers when the goods pass the ship's rail in the port of shipment. Seller must pay the costs & freight necessary to bring the goods to the named port of destination, BUT the risk of loss or damage, as well as any additional costs due to events occurring after the time of delivery are transferred from seller to buyer. Seller must clear goods for export. This term can only be used for ocean transport."
+        "main": "CFR - Стоимость и фрахт",
+        "description": "Этот термин означает, что продавец осуществляет поставку, когда товар проходит через поручни судна в порту отгрузки. Продавец обязан оплатить расходы и фрахт, необходимые для доставки товара в указанный порт назначения, НО риск потери или повреждения, а также любые дополнительные расходы, связанные с событиями, произошедшими после момента доставки, переходят от продавца к покупателю. Продавец должен произвести таможенную очистку товара для экспорта. Этот термин может быть использован только для морского транспорта."
       },
       "CIF": {
-        "main": "CIF - Cost, Insurance, Freight",
-        "description": "The seller delivers when the goods pass the ship's rail in the port of shipment. Seller must pay the cost & freight necessary to bring goods to named port of destination. Risk of loss & damage same as CFR. Seller also has to procure marine insurance against buyer's risk of loss/damage during the carriage. Seller must clear the goods for export. This term can only be used for ocean transport."
+        "main": "CIF - Стоимость, Страхование, Фрахт",
+        "description": "Продавец осуществляет поставку, когда товар проходит через поручни судна в порту отгрузки. Продавец должен оплатить стоимость и фрахт, необходимые для доставки товара в указанный порт назначения. Риск потери и повреждения такой же, как и CFR. Продавец также должен обеспечить морскую страховку от риска потери/повреждения товара покупателем во время перевозки. Продавец должен произвести таможенную очистку товара для экспорта. Этот термин может быть использован только для морского транспорта."
       },
       "CIP": {
-        "main": "CIP - Carriage and Insurance Paid",
-        "description": "This term is the same as CPT with the exception that the seller also has to procure insurance against the buyer's risk of loss or damage to the goods during the carriage. This term may be used for any mode of transportation.   "
+        "main": "CIP - Оплаченная перевозка и страхование",
+        "description": "Этот термин совпадает с CPT, за исключением того, что продавец также должен обеспечить страхование от риска потери или повреждения товара покупателем во время перевозки. Этот термин может быть использован для любого вида транспорта."
       },
       "CPT": {
-        "main": "CPT - Carriage Paid To",
-        "description": "This term means that the seller delivers the goods to the carrier nominated by him but the seller must in addition pay the cost of carriage necessary to bring the goods to the named destination. The buyer bears all costs occurring after the goods have been so delivered. The seller must clear the goods for export. This term may be used irrespective of the mode of transport (including multimodal). "
+        "main": "CPT - Перевозка, Оплаченная До",
+        "description": "Этот термин означает, что продавец доставляет товар указанному им перевозчику, но продавец должен дополнительно оплатить стоимость перевозки, необходимую для доставки товара в указанное место назначения. Покупатель несет все расходы, возникающие после того, как товар был доставлен таким образом. Продавец должен произвести таможенную очистку товара для экспорта. Этот термин может использоваться независимо от вида транспорта (включая мультимодальный)."
       },
       "DDP": {
-        "main": "DDP - Delivered Duty Paid.",
-        "description": "This term represents maximum obligation to the seller. This term should not be used if the seller is unable to directly or indirectly to obtain the import license. The terms means the same as the DDU term with the exception that the seller also will bear all costs & risks of carrying out customs formalities including the payment of duties, taxes & customs fees."
+        "main": "DDP - Оплаченная пошлина за доставку.",
+        "description": "Этот термин представляет собой максимальное обязательство перед продавцом. Этот термин не следует использовать, если продавец не в состоянии прямо или косвенно получить лицензию на импорт. Условия означают то же самое, что и термин DDU, за исключением того, что продавец также несет все расходы и риски, связанные с выполнением таможенных формальностей, включая уплату пошлин, налогов и таможенных сборов."
       },
       "DAT": {
-        "main": "DAT – Delivered at Terminal",
-        "description": "Seller pays for carriage to the terminal, except for costs related to import clearance, and assumes all risks up to the point that the goods are unloaded at the terminal."
+        "main": "DAT – Доставляется на терминал",
+        "description": "Продавец оплачивает перевозку до терминала, за исключением расходов, связанных с таможенным оформлением импорта, и принимает на себя все риски вплоть до момента выгрузки товара на терминале."
       },
       "DAP": {
-        "main": "DAP - Delivered At Place",
-        "description": "Seller pays for carriage to the named place, except for costs related to import clearance, and assumes all risks prior to the point that the goods are ready for unloading by the buyer. The incoterms define the role between seller and buyer at an international transaction. Who has to do what en at what time? In the contract between the seller and the buyer, the following is determined:\n\nThe duties of the buyer and the seller\nWho takes care of the insurances, licences, permissions and all other formalities\nWho arranges the transport untill which point and who is responsible for this\nThe point where the costs and risks pass on from the seller to the buyer.There are thirteen different incoterms in Incoterms 2000 and 2010. These incoterms take care of the international rights and duties from the buyer and the seller. Six of of the thirteen incoterms are about ocean freight. The remaining seven incoterms are regarding all transport modalities. The Incoterms are being prepared and published by the International Chamber of Commerce (ICC). "
+        "main": "DAP - Доставляется на Место",
+        "description": "Продавец оплачивает перевозку до указанного места, за исключением расходов, связанных с таможенным оформлением импорта, и принимает на себя все риски до момента, когда товар будет готов к выгрузке покупателем. Инкотермс определяют роль продавца и покупателя в международной сделке. Кто должен что и в какое время делать? В договоре между продавцом и покупателем определяется следующее: Обязанности покупателя и продавца, который заботится о страховании, лицензиях, разрешениях и всех других формальностях, Кто организует транспортировку до какого момента и кто несет ответственность за этот момент, когда расходы и риски переходят от от продавца к покупателю.В Инкотермс 2000 и 2010 существует тринадцать различных инкотермс. Эти инкотермс заботятся о международных правах и обязанностях покупателя и продавца. Шесть из тринадцати инкотермс касаются морских перевозок. Остальные семь инкотермс касаются всех видов транспорта. Инкотермс подготавливаются и публикуются Международной торговой палатой (ICC)."
       }
     }
   },

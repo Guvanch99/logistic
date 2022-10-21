@@ -91,19 +91,19 @@ const Header = () => {
           <CustomMenuItemStyled value="en">
             <FlagIcon code="US" size={14}/>
             <div>
-              en
+              EN
             </div>
           </CustomMenuItemStyled>
           <CustomMenuItemStyled value="ru">
             <RussianFlag width={14} height={14}/>
             <div>
-              ru
+              RU
             </div>
           </CustomMenuItemStyled>
           <CustomMenuItemStyled value="tr">
             <FlagIcon code="TR" size={14}/>
             <div>
-              tr
+              TR
             </div>
           </CustomMenuItemStyled>
         </CustomSelectStyled>

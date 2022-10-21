@@ -1,20 +1,25 @@
 import styled from 'styled-components/macro'
 import { memo } from 'react'
 import { useTranslation } from 'react-i18next'
-import Intercom from '../../../core/assets/incoterms.png'
+import { useMedia } from 'react-use'
+import Intercom from '../../../core/assets/incoterms.jpeg'
 import { flex, fontFamily } from '../../../core/styles/mixins'
 
-const WrapperStyled = styled.div`
+const WrapperStyled = styled.div<{isTablet: boolean}>`
   ${flex({ justify: 'center', align: 'flex-start' })};
+  flex-direction: ${({ isTablet }) => (isTablet ? 'column' : 'row')};
   margin: 40px 20px;
 `
 
 const ImageStyled = styled.img`
-  width: 400px;
-  height: 300px;
   border-radius: 20px;
   object-fit: cover;
   margin-right: 40px;
+  height: 250px;
+  margin-bottom: 30px;
+
+  max-width: 100%;
+  width: 500px;
 `
 const TextContainerStyled = styled.div`
   max-width: 530px;
@@ -43,8 +48,9 @@ const DescriptionStyled = styled.p`
 `
 const Incomterms = () => {
   const { t } = useTranslation('translation')
+  const isTablet = useMedia('(max-width: 700px)')
   return (
-    <WrapperStyled>
+    <WrapperStyled isTablet={isTablet}>
       <ImageStyled src={Intercom} alt="intercom"/>
       <TextContainerStyled>
         <div>
