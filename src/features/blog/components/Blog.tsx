@@ -1,6 +1,6 @@
 import styled from 'styled-components/macro'
 import Card from './Card'
-import Image from '../../../core/assets/incoterms.png'
+import Image from '../../../core/assets/incoterms.jpeg'
 
 const WrapperStyled = styled.div`
   width: 100%;
