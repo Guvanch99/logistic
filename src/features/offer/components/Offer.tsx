@@ -126,11 +126,11 @@ const Offer: FC<{noBackgroundImage?: boolean}> = ({ noBackgroundImage }) => {
   const submit = (data: TForm) => {
     // @ts-ignore
     setDisabled(true)
-    emailjs.send('service_rzza98n', 'template_hus84l9', {
+    emailjs.send('service_5yfjozj', 'template_hus84l9', {
       name: data.name,
       email: data.email,
       message: data.message
-    }, 'AORvgXZn006iVvcqU')
+    }, 'S-ghkz-4gWm_MfJ8Y')
       .then((res) => {
         showSuccessNotification(t('notifcation'))
         setDisabled(false)

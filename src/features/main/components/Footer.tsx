@@ -175,7 +175,7 @@ const Footer = () => {
             <CustomNavigation to="blog">
               {t('main.blog')}
             </CustomNavigation>
-            <CustomNavigation to="contact">
+            <CustomNavigation to="contacts">
               {t('main.contacts')}
             </CustomNavigation>
           </ContentStyled>
@@ -232,6 +232,8 @@ const Footer = () => {
         </BottomStyled>
         <FooterBottomTextStyled>
           &#169;
+          {' '}
+          {new Date().getFullYear()}
           {' '}
           {t('footerCopyright')}
         </FooterBottomTextStyled>
